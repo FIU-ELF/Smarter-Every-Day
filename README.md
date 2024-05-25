@@ -10,7 +10,7 @@ alt="Smarter Every Day Video" width="240" height="180" border="10" /></a>
 ## Summary of Base Data from Video
 ### Location, Time & Date
 Based on the video from Smarter Every Day:
-1. The location is Jackson, Missouri (Drury Hotel)
+1. The location is Jackson, Missouri (Drury Hotel: 37.42925803643183, -89.64323382671625) 
 2. The data is the solar eclipse, 4/8/2024
 3. Duration of Totality*: 4m 9.6s
 4. Totality Start*: 13:58:11 (CDT (GMT-5))
