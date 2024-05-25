@@ -20,6 +20,8 @@ Based on the video from Smarter Every Day:
 1. A satellite slightly away from Baily's beads
 2. A satellite right after the previous one but on the solar disk
 
+For a satellite to cause a flare during a solar eclipse, the satellite must be out of the shadow of the eclipse and the angle of light reflect from Sun to Satellite should be about the same as from Satellite to Observer.
+
 ## Python Script
 This python script uses a TLE filed pulled from Celestrak and then:
 1. Given a lat/lon and date/time range computes the Azimuth and Elevation to the sun
@@ -32,6 +34,9 @@ The python script computer for 3 minutes after the solar eclipse's end (starts j
 ## Results
 
 ## Comparison with Orbitron
+
+![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Images/Orbitron.png "Orbitron radar view of satellites in Jackson, Missouri")
+
 
 ## Notes
 
