@@ -33,6 +33,9 @@ The python script computer for 3 minutes after the solar eclipse's end (starts j
 
 ## Comparison with Orbitron
 
+![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Images/Orbitron.png "Orbitron radar view of satellites in Jackson, Missouri")
+
+
 ## Notes
 
 
