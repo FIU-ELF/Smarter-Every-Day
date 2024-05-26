@@ -81,10 +81,12 @@ The solution seems to be:
 Cosmos 1859 is travelling at 7.163 km/s. This kind of jives with the suspected velocity of the object but a bit off. Thorad debris is in LEO and travelling at 7.34 km/s, so it jives. Fregat is 7.78 km/s @ LEO as well.
 The fact one object is inactive and the other 2 potentials are debris means they won't show up in the active satellite list. 
 
+Using older TLEs (closer to the accuracy of April 8th), Fregat appears out of play.
+
 
 ## Summary
 Lots of cool stuff, much debris in space! 
 
 ## Notes
-I still have to clean up the code and update the GH but I wanted to get the results out for peer review from anyone interested.
+I still have to clean up the code and update the GH but I wanted to get the results out for peer review from anyone interested. Ideally, I can find a total set from Space-Track from April 8th.
 
