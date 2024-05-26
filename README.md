@@ -78,7 +78,7 @@ The solution seems to be:
 3. (B) Fregat Debris from 2011 (45649U) ([N2YO page](https://www.n2yo.com/satellite/?s=45649])
 
 
-Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object but a bit off. Thorad debris is in LEO, so it jives. Fregat is LEO as well.
+Cosmos 1859 is travelling at 7.163 km/s. This kind of jives with the suspected velocity of the object but a bit off. Thorad debris is in LEO and travelling at 7.34 km/s, so it jives. Fregat is 7.78 km/s @ LEO as well.
 The fact one object is inactive and the other 2 potentials are debris means they won't show up in the active satellite list. 
 
 
