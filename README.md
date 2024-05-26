@@ -3,8 +3,7 @@ Destin from "Smarter Ever Day" posted a video where he noticed two satellites ph
 
 ## Video Link
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bQF51mqzrY4
-" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_l59Ewmp0DHZBRWbY9dVqjd2_mWwvrn8ad0bJfmdbMRYcA=s160-c-k-c0x00ffffff-no-rj" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bQF51mqzrY4" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_l59Ewmp0DHZBRWbY9dVqjd2_mWwvrn8ad0bJfmdbMRYcA=s160-c-k-c0x00ffffff-no-rj" 
 alt="Smarter Every Day Video" width="240" height="180" border="10" /></a>
 
 ## Summary of Base Data from Video
@@ -65,8 +64,12 @@ Python Ground Plots for Thorad Agenda D Deb
 ![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Plots_narrow_3_deg/ground_track_3.png "Python Thorad plot")
 
 The solution seems to be:
-1. Cosmos 1859, launched June 1987 ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
-2. Thorad Agena Debris ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena])
+1. Cosmos 1859, launched June 1987 and no longer in active use ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
+2. Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information](https://www.satcat.com/sats/19290])
+
+
+Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object. Thorad debris is in LEO, so it too jives. 
+The fact one object is inactive and the other is debris means they won't show up in the active satellite list. 
 
 ## Summary
 Lots of cool stuff, much debris in space! 
