@@ -71,10 +71,10 @@ Python Ground Plots for Fregat Deb
 The solution seems to be:
 1. Cosmos 1859, launched June 1987 and no longer in active use ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
 2.a Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information](https://www.satcat.com/sats/19290])
-2.b
+2.b Fregat Debris from 2011 (45649U) ([N2YO page](https://www.n2yo.com/satellite/?s=45649])
 
-Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object. Thorad debris is in LEO, so it too jives. 
-The fact one object is inactive and the other is debris means they won't show up in the active satellite list. 
+Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object. Thorad debris is in LEO, so it too jives. Fregat as well.
+The fact one object is inactive and the other 2 potentials are debris means they won't show up in the active satellite list. 
 
 ## Summary
 Lots of cool stuff, much debris in space! 
