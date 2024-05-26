@@ -88,5 +88,6 @@ Using older TLEs (closer to the accuracy of April 8th), Fregat appears out of pl
 Lots of cool stuff, much debris in space! 
 
 ## Notes
-I still have to clean up the code and update the GH but I wanted to get the results out for peer review from anyone interested. Ideally, I can find a total set from Space-Track from April 8th.
+I still have to clean up the code and update the GH but I wanted to get the results out for peer review from anyone interested. Ideally, I can find a decent total set from Space-Track from prior to April 8th. The April 6th Space-Track set I have is filled with a fair amount of objects that have no label. I'll rerun this with an Apil 7th and 8th. 
 
+https://www.space-track.org/basicspacedata/query/class/gp_history/CREATION_DATE/2024-04-06--2024-04-07/orderby/NORAD_CAT_ID,EPOCH/format/tle/emptyresult/show
