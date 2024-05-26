@@ -74,7 +74,7 @@ Python Ground Plots for Fregat Deb
 
 The solution seems to be:
 1. Cosmos 1859, launched June 1987 and no longer in active use ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
-2. (A) Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information](https://www.satcat.com/sats/19290])
+2. (A) Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information]([https://www.satcat.com/sats/19290])
 3. (B) Fregat Debris from 2011 (45649U) ([N2YO page](https://www.n2yo.com/satellite/?s=45649])
 
 
