@@ -19,7 +19,11 @@ Based on the video from Smarter Every Day:
 1. A satellite slightly away from Baily's beads
 2. A satellite right after the previous one but on the solar disk
 
-For a satellite to cause a flare during a solar eclipse, the satellite must be out of the shadow of the eclipse and the angle of light reflect from Sun to Satellite should be about the same as from Satellite to Observer.
+For a satellite to cause a flare during a solar eclipse, the satellite must be out of the shadow of the eclipse. The satellite could be reflecting light from the earth back down and since the sky is dark, the satellite is now noticeable. Otherwise, the angle from the sun to the satellite and then to earth would have to be rather extreme. I believe the case of the satellite reflecting light from the Earth would be the more likely case. In this scenerio, the satellite would be close to the observer but relatively in line with the eclipse. 
+
+Here is a cool SpaceX video showing the eclipse from LEO:
+
+https://www.youtube.com/watch?v=ust2eR3nhJc
 
 ## Python Script
 This python script uses a TLE filed pulled from Celestrak and then:
@@ -70,11 +74,13 @@ Python Ground Plots for Fregat Deb
 
 The solution seems to be:
 1. Cosmos 1859, launched June 1987 and no longer in active use ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
-2.a Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information](https://www.satcat.com/sats/19290])
-2.b Fregat Debris from 2011 (45649U) ([N2YO page](https://www.n2yo.com/satellite/?s=45649])
+2. (A) Thorad Agena Debris from 1970 ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena]) ([SATCAT information](https://www.satcat.com/sats/19290])
+3. (B) Fregat Debris from 2011 (45649U) ([N2YO page](https://www.n2yo.com/satellite/?s=45649])
 
-Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object. Thorad debris is in LEO, so it too jives. Fregat as well.
+
+Cosmos 1859 has a period 114.5 minutes which is 6.19 km/s. This kind of jives with the suspected velocity of the object but a bit off. Thorad debris is in LEO, so it jives. Fregat is LEO as well.
 The fact one object is inactive and the other 2 potentials are debris means they won't show up in the active satellite list. 
+
 
 ## Summary
 Lots of cool stuff, much debris in space! 
