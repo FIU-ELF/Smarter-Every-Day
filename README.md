@@ -48,17 +48,29 @@ This is where the script comes in handy. Running the script with a wide net of 1
 
 ![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Images/sieved_radar.png "Orbitron radar view of sieved satellites & debris in Jackson, Missouri")
 
-Further refining to 2 degrees of field of view gives us 4 satellites, of which 2 seem to fit the requirement of back to back passes, one at baily's beads and the other on the solar disk:
+Further refining to 3 degrees of field of view gives us 4 satellites, of which 2 seem to fit the requirement of back to back passes, one at baily's beads and the other on the solar disk:
 
 ![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Images/potential_solve.png "Orbitron radar view of sieved satellites & debris in Jackson, Missouri")
 
 TLEs for this set can be found:
 
+[TLEs for Potential Solve](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Plots_narrow_3_deg/Sieved_TLE3.txt)
 
+Python Ground Plots for Cosmos 1859:
 
+![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Plots_narrow_3_deg/ground_track_4.png "Python Cosmos plot")
 
+Python Ground Plots for Thorad Agenda D Deb
 
+![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Plots_narrow_3_deg/ground_track_3.png "Python Thorad plot")
+
+The solution seems to be:
+1. Cosmos 1859, launched June 1987 ([NY20 data on Cosmos 1859](https://www.n2yo.com/satellite/?s=18120])
+2. Thorad Agena Debris ([Wiki page on Throad Agena](https://en.wikipedia.org/wiki/Thorad-Agena])
+
+## Summary
+Lots of cool stuff, much debris in space! 
 
 ## Notes
-
+I still have to clean up the code and update the GH but I wanted to get the results out for peer review from anyone interested.
 
