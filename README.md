@@ -32,7 +32,7 @@ This python script uses a TLE filed pulled from Celestrak and then:
 3. It then compares to find satellites within a field of view of "specified" degrees. The script started with a rather wide field of view for the observation but we can downselect candidates after (like a sieve)
 4. The video's observations are rather fast so the transit's duration is a bit ambigious but it seems like seconds after the beads appear. To confirm visuals, we'll plot a few minutes of time in our python ground plots.
 
-The python script ran for 3 minutes after the solar eclipse's end (starts just before the end), which is more than enough time to catch a satellite near Baily's beads and one right after in the solar disk. How the script works, it essentially tried to find if a "line" is in a box or cross a box around the sun.
+The python script ran for 3 minutes after the solar eclipse's end (starts just before the end), which is more than enough time to catch a satellite near Baily's beads and one right after in the solar disk. How the script works, it essentially tried to find if a "line" is in or interesects a circular field of view.
 
 ![alt text](https://github.com/FIU-ELF/Smarter-Every-Day/blob/main/Images/Field.png "Robit intersection of field of view")
 
